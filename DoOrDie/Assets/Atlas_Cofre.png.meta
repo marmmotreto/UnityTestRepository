@@ -1,0 +1,1257 @@
+fileFormatVersion: 2
+guid: a33df287dfd4f8140b66a04a659b0f65
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pickup_1
+    21300002: pickup_2
+    21300004: pickup_3
+    21300006: pickup_4
+    21300008: pickup_5
+    21300010: pickup_6
+    21300012: pickup_7
+    21300014: pickup_8
+    21300016: pickup_9
+    21300018: pickup_10
+    21300020: pickup_11
+    21300022: pickup_12
+    21300024: death_1
+    21300026: death_2
+    21300028: death_3
+    21300030: death_4
+    21300032: death_5
+    21300034: death_6
+    21300036: death_7
+    21300038: death_8
+    21300040: death_9
+    21300042: death_10
+    21300044: death_11
+    21300046: death_12
+    21300048: death_13
+    21300050: death_14
+    21300052: death_15
+    21300054: death_16
+    21300056: death_17
+    21300058: idle_1
+    21300060: idle_2
+    21300062: idle_3
+    21300064: idle_4
+    21300066: idle_5
+    21300068: idle_6
+    21300070: idle_7
+    21300072: idle_8
+    21300074: idle_9
+    21300076: idle_10
+    21300078: idle_11
+    21300080: idle_12
+    21300082: normal_run_1
+    21300084: normal_run_2
+    21300086: normal_run_3
+    21300088: normal_run_4
+    21300090: normal_run_5
+    21300092: normal_run_6
+    21300094: normal_run_7
+    21300096: normal_run_8
+    21300098: normal_run_9
+    21300100: normal_run_10
+    21300102: normal_run_11
+    21300104: normal_run_12
+    21300106: normal_run_13
+    21300108: normal_run_14
+    21300110: normal_run_15
+    21300112: normal_run_16
+    21300114: normal_run_17
+    21300116: normal_run_18
+    21300118: normal_run_19
+    21300120: normal_run_20
+    21300122: pickup_13
+    21300124: pickup_14
+    21300126: pickup_15
+    21300128: fast_run_1
+    21300130: fast_run_2
+    21300132: fast_run_3
+    21300134: fast_run_4
+    21300136: fast_run_5
+    21300138: fast_run_6
+    21300140: fast_run_7
+    21300142: fast_run_8
+    21300144: fast_run_9
+    21300146: fast_run_10
+    21300148: fast_run_11
+    21300150: fast_run_12
+    21300152: fast_run_13
+    21300154: slow_run_1
+    21300156: slow_run_2
+    21300158: slow_run_3
+    21300160: slow_run_4
+    21300162: slow_run_5
+    21300164: slow_run_6
+    21300166: slow_run_7
+    21300168: slow_run_8
+    21300170: slow_run_9
+    21300172: slow_run_10
+    21300174: slow_run_11
+    21300176: slow_run_12
+    21300178: slow_run_13
+    21300180: slow_run_14
+    21300182: slow_run_15
+    21300184: slow_run_16
+    21300186: slow_run_17
+    21300188: slow_run_18
+    21300190: slow_run_19
+    21300192: slow_run_20
+    21300194: frenzy_1
+    21300196: frenzy_2
+    21300198: frenzy_3
+    21300200: frenzy_4
+    21300202: frenzy_5
+    21300204: frenzy_6
+    21300206: frenzy_7
+    21300208: frenzy_8
+    21300210: frenzy_9
+    21300212: frenzy_10
+    21300214: frenzy_11
+    21300216: frenzy_12
+    21300218: frenzy_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pickup_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1846
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pickup_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1848
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pickup_3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1846
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pickup_4
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1846
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pickup_5
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1846
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pickup_6
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1846
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pickup_7
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1846
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pickup_8
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1846
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pickup_9
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1846
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pickup_10
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1846
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pickup_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1644
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pickup_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1644
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: death_1
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1644
+        width: 225
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: death_2
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1644
+        width: 225
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: death_3
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1644
+        width: 225
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: death_4
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1644
+        width: 225
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: death_5
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1644
+        width: 225
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: death_6
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1644
+        width: 225
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: death_7
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1644
+        width: 225
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: death_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1442
+        width: 225
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: death_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1442
+        width: 225
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: death_10
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1442
+        width: 225
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: death_11
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1442
+        width: 225
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: death_12
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1442
+        width: 225
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: death_13
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1442
+        width: 225
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: death_14
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1442
+        width: 225
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: death_15
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1442
+        width: 225
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: death_16
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1442
+        width: 225
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: death_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1240
+        width: 225
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1240
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_2
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1240
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1240
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_4
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1240
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_5
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1240
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_6
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1240
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_7
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1240
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_8
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1240
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_9
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1240
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_10
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1240
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_11
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1240
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1038
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_run_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1038
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_run_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1038
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_run_3
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1038
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_run_4
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1038
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_run_5
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1038
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_run_6
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1038
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_run_7
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1038
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_run_8
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1038
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_run_9
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1038
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_run_10
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1038
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_run_11
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1038
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_run_12
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1038
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_run_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 836
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_run_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 836
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_run_15
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 836
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_run_16
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 836
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_run_17
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 836
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_run_18
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 836
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_run_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 836
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_run_20
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 836
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pickup_13
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 836
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pickup_14
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 836
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pickup_15
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 836
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fast_run_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 634
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fast_run_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 634
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fast_run_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 634
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fast_run_4
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 634
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fast_run_5
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 634
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fast_run_6
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 634
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fast_run_7
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 634
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fast_run_8
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 634
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fast_run_9
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 634
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fast_run_10
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 634
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fast_run_11
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 634
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fast_run_12
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 634
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fast_run_13
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 634
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slow_run_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 432
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slow_run_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 432
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slow_run_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 432
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slow_run_4
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 432
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slow_run_5
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 432
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slow_run_6
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 432
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slow_run_7
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 432
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slow_run_8
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 432
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slow_run_9
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 432
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slow_run_10
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 432
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slow_run_11
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 432
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slow_run_12
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 432
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slow_run_13
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 432
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slow_run_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 230
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slow_run_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 230
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slow_run_16
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 230
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slow_run_17
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 230
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slow_run_18
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 230
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slow_run_19
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 230
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slow_run_20
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 230
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frenzy_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 28
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frenzy_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 28
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frenzy_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 28
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frenzy_4
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 28
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frenzy_5
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 28
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frenzy_6
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 28
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frenzy_7
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 28
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frenzy_8
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 28
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frenzy_9
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 28
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frenzy_10
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 28
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frenzy_11
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 28
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frenzy_12
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 28
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frenzy_13
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 28
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

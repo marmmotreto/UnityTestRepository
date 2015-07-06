@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: c0c74b767315e408fbbd5d65afc476ec
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: phys_grass_01
+    100004: phys_grass_02
+    100006: phys_grass_03
+    100008: phys_grass_04
+    100010: phys_grass_05
+    100012: phys_mud_01
+    100014: phys_mud_02
+    100016: phys_mud_03
+    100018: phys_mud_04
+    100020: phys_mud_05
+    100022: phys_road_01
+    100024: phys_road_02
+    100026: phys_road_03
+    100028: phys_road_04
+    100030: phys_road_05
+    400000: //RootNode
+    400002: phys_grass_01
+    400004: phys_grass_02
+    400006: phys_grass_03
+    400008: phys_grass_04
+    400010: phys_grass_05
+    400012: phys_mud_01
+    400014: phys_mud_02
+    400016: phys_mud_03
+    400018: phys_mud_04
+    400020: phys_mud_05
+    400022: phys_road_01
+    400024: phys_road_02
+    400026: phys_road_03
+    400028: phys_road_04
+    400030: phys_road_05
+    2300000: phys_grass_01
+    2300002: phys_grass_02
+    2300004: phys_grass_03
+    2300006: phys_grass_04
+    2300008: phys_grass_05
+    2300010: phys_mud_01
+    2300012: phys_mud_02
+    2300014: phys_mud_03
+    2300016: phys_mud_04
+    2300018: phys_mud_05
+    2300020: phys_road_01
+    2300022: phys_road_02
+    2300024: phys_road_03
+    2300026: phys_road_04
+    2300028: phys_road_05
+    3300000: phys_grass_01
+    3300002: phys_grass_02
+    3300004: phys_grass_03
+    3300006: phys_grass_04
+    3300008: phys_grass_05
+    3300010: phys_mud_01
+    3300012: phys_mud_02
+    3300014: phys_mud_03
+    3300016: phys_mud_04
+    3300018: phys_mud_05
+    3300020: phys_road_01
+    3300022: phys_road_02
+    3300024: phys_road_03
+    3300026: phys_road_04
+    3300028: phys_road_05
+    4300000: phys_road_01
+    4300002: phys_road_02
+    4300004: phys_road_03
+    4300006: phys_road_04
+    4300008: phys_road_05
+    4300010: phys_mud_01
+    4300012: phys_mud_02
+    4300014: phys_mud_03
+    4300016: phys_mud_04
+    4300018: phys_mud_05
+    4300020: phys_grass_01
+    4300022: phys_grass_02
+    4300024: phys_grass_03
+    4300026: phys_grass_04
+    4300028: phys_grass_05
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

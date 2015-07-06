@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 3b5618032c0e340bea9a61379ab8f131
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Escenario Atlas primera parte 2048 cuadros_0
+    21300002: Escenario Atlas primera parte 2048 cuadros_1
+    21300004: Escenario Atlas primera parte 2048 cuadros_2
+    21300006: Escenario Atlas primera parte 2048 cuadros_3
+    21300008: Escenario Atlas primera parte 2048 cuadros_4
+    21300010: Escenario Atlas primera parte 2048 cuadros_5
+    21300012: Escenario Atlas primera parte 2048 cuadros_6
+    21300014: Escenario Atlas primera parte 2048 cuadros_7
+    21300016: Escenario Atlas primera parte 2048 cuadros_8
+    21300018: Escenario Atlas primera parte 2048 cuadros_9
+    21300020: Escenario Atlas primera parte 2048 cuadros_10
+    21300022: Escenario Atlas primera parte 2048 cuadros_11
+    21300024: Escenario Atlas primera parte 2048 cuadros_12
+    21300026: Escenario Atlas primera parte 2048 cuadros_13
+    21300028: Escenario Atlas primera parte 2048 cuadros_14
+    21300030: Escenario Atlas primera parte 2048 cuadros_15
+    21300032: Escenario Atlas primera parte 2048 cuadros_16
+    21300034: Escenario Atlas primera parte 2048 cuadros_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 895
+        height: 1104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1348
+        width: 601
+        height: 700
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1565
+        width: 311
+        height: 483
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1782
+        width: 179
+        height: 266
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1517
+        width: 235
+        height: 263
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 843
+        width: 305
+        height: 503
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 714
+        width: 385
+        height: 632
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1266
+        width: 319
+        height: 249
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 571
+        height: 574
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 447
+        width: 317
+        height: 495
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 931
+        width: 292
+        height: 333
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Escenario Atlas primera parte 2048 cuadros_11
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 519
+        width: 299
+        height: 322
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Escenario Atlas primera parte 2048 cuadros_12
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 565
+        width: 264
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Escenario Atlas primera parte 2048 cuadros_13
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 609
+        width: 397
+        height: 320
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Escenario Atlas primera parte 2048 cuadros_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 497
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Escenario Atlas primera parte 2048 cuadros_15
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 0
+        width: 460
+        height: 443
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Escenario Atlas primera parte 2048 cuadros_16
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 0
+        width: 341
+        height: 396
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Escenario Atlas primera parte 2048 cuadros_17
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 0
+        width: 587
+        height: 587
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 0d1cbfe559a2a9947926695116bf1161
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: COMIDA_0
+    21300002: COMIDA_1
+    21300004: COMIDA_2
+    21300006: COMIDA_3
+    21300008: COMIDA_4
+    21300010: COMIDA_5
+    21300012: COMIDA_6
+    21300014: COMIDA_7
+    21300016: COMIDA_8
+    21300018: COMIDA_9
+    21300020: COMIDA_10
+    21300022: COMIDA_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: COMIDA_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 413
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COMIDA_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 413
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COMIDA_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 413
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COMIDA_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 413
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COMIDA_4
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 413
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COMIDA_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 314
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COMIDA_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 314
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COMIDA_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 314
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COMIDA_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 314
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COMIDA_9
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 314
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COMIDA_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 214
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COMIDA_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 214
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
