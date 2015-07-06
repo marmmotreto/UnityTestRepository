@@ -5,6 +5,8 @@ using UnityEngine.UI;
 
 public class HudManager : MonoBehaviour {
 
+	//Serch tiene la culpa
+
 	private static HudManager _instance;
 	public static HudManager Instance{ get{return _instance;}}
 
