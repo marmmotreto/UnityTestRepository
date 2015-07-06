@@ -14,9 +14,13 @@ public class HudManager : MonoBehaviour {
 
 
 	public Camera m_EntranceCam;
+	public Canvas m_EntranceCanvas;
+
 	public Camera m_FinishCam;
 	public Camera m_GameplayCam;
+
 	public Camera m_CreditsCam;
+	public Canvas m_CreditsCanvas;
 
 	public bool m_IsGameOver=false;
 
@@ -122,6 +126,8 @@ public class HudManager : MonoBehaviour {
 		m_GameplayCam.enabled=false;
 		m_FinishCam.enabled=false;
 		m_EntranceCam.enabled=false;
+		m_CreditsCanvas.enabled=true;
+		m_EntranceCanvas.enabled=false;
 	}
 
 	public void ShowGameplay()
@@ -148,6 +154,9 @@ public class HudManager : MonoBehaviour {
 		m_GameplayCam.enabled=false;
 		m_FinishCam.enabled=false;
 		m_EntranceCam.enabled=true;
+		m_EntranceCanvas.enabled=true;
+		m_CreditsCanvas.enabled=false;
+
 	}
 
 }
