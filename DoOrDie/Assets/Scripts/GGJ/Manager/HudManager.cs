@@ -50,7 +50,7 @@ public class HudManager : MonoBehaviour {
 
 	public void UpdateScore(float score)
 	{
-		m_Score.text=score.ToString("P0");
+		m_Score.text="N/A";
 	}
 
 	public void UpdateCombo(int _player,float _combo)
